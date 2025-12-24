@@ -19,4 +19,4 @@ Estudante de **Sistemas de Informação na UFLA** (4º Período) focado em me to
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AugustoFernandesc&show_icons=true&theme=dracula)
 
 ### 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/augusto-fernandes-900638242)
+- [LinkedIn](www.linkedin.com/in/augusto-fernandes-900638242/)
